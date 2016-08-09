@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">xiao-chi</string>
+    <string name="btn_camera">Take photo</string>
+    <string name="btn_analyze">Analyze</string>
+    
+    <!-- Description -->
+    <string name="rice_tube_pudding_desc">
+        筒仔米糕是一樣常見於糯米類小吃，與油飯、米糕類似，但卻是在瓷瓶、竹筒或鐵罐中炊煮而成，口味濃郁。有些店家會再淋上肉燥和加上肉鬆、香菜、蘿蔔乾。
+    </string>
+    
+    <string name="rice_dumpling_desc">
+        Zongzi (Chinese: 粽子; pinyin: zòngzi), or simply zong (Chinese: 粽; pinyin: zòng), is a traditional Chinese food, made of glutinous rice stuffed with different fillings and wrapped in bamboo, reed, or other large flat leaves. They are cooked by steaming or boiling. In the Western world, they are also known as rice dumplings, or sticky rice dumplings.
+    </string>
+    
+    <string name="oyster_omelet_desc">
+        The dish consists of an omelette with a filling primarily composed of small oysters. Starch (typically potato starch) is mixed into the egg batter, giving the resulting egg wrap a thicker consistency. Pork lard is often used to fry the omelette. Depending on regional variation, a savory sauce may then be poured on top of the omelette for added taste.
+    </string>
+    
+    <string name="braised_pork_rice_desc">
+        Minced pork rice  is a Taiwanese style rice dish commonly seen throughout Taiwan and China\'s Fujian province. The flavor may vary from one region to another, but the basic ingredients remain the same: ground pork marinated and boiled in soy sauce served on top of steamed rice.
+    </string>
+    
+    <string name="beef_noodles_desc">
+        Beef noodle soup is a Chinese and Taiwanese noodle soup made of stewed or red braised beef, beef broth, vegetables and Chinese noodles. It exists in various forms throughout East Asia and Southeast Asia. Beef noodle soup was first created by the Hui people (a Chinese Muslim ethnic group) during the Tang Dynasty of China. The red braised beef noodle soup was invented by the veterans in Kaoshiung, Taiwan who fled from mainland China during the Chinese civil war.
+    </string>
+
+    <string name="bubble_tea_desc">
+        Bubble tea (also known as pearl milk tea, boba milk tea, boba juice or simply boba) is a Taiwanese tea-based drink invented in Taichung in the 1980s. Most bubble tea recipes contain a tea base mixed/shaken with fruit or milk, to which chewy tapioca balls or fruit jellies are often added. Ice-blended versions are usually mixed with fruit or syrup, resulting in a slushy consistency. There are many varieties of the drink with a wide range of ingredients. The two most popular varieties are bubble milk tea with tapioca and bubble milk green tea with tapioca.
+    </string>
+
+    <string name="pig_blood_cake_desc">
+        Pig\'s blood cake (Chinese: 豬血糕; pinyin: zhū xiě gāo; Pe̍h-ōe-jī: ti-hoeh-koé) is a street food delicacy served on a stick from market stalls in Taiwan. It is made with pork blood\, sticky rice and soy broth. It is fried or steamed and coated in peanut flour. It is eaten as a snack. It can also be cooked in a hot pot. It is served hot by street vendors who keep it warmed in a wooden box or metal steamer. A description from Seriouseats described it as cross between a rice cake and mochi.
+    </string>
+
+    <string name="xiaolongbao_desc">
+        Xiaolongbao is a type of steamed bun (baozi) from the Jiangnan region of China, especially associated with Shanghai and Wuxi. It is traditionally prepared in xiaolong, small bamboo steaming baskets, which give them their name. Xiaolongbao are often referred to as a kind of "dumpling", but should not be confused with British or American-style dumplings nor with Chinese jiaozi. Similarly, they are considered a kind of "soup dumpling" but should not be confused with other larger varieties of tang bao. In Shanghainese, they are also sometimes known as sioh-lon meu-doe or xiaolong-style mantous.
+    </string>
+    
+    <string name="stinky_tofu_desc">
+        Stinky tofu (Chinese: 臭豆腐; pinyin: chòudòufu), is a form of fermented tofu that has a strong odor. It is usually sold at night markets or roadside stands as a snack, or in lunch bars as a side dish, rather than in restaurants. In Taiwan, stinky tofu is usually served deep-fried (often served drizzled with sauce and topped with sour pickled vegetables), grilled, or added to a Sichuan mala soup base (with solid goose blood, pickled mustard greens, and pork intestines).
+    </string>
+    
+    <string name="taiwanese_meatball_desc">
+        Ba-wan (Chinese: 肉圓; pinyin: ròuyuán; Wade–Giles: jou4-yüan2; Pe̍h-ōe-jī: bah-ôan; literally: "meat circle") is a Taiwanese street food, consisting of a 6–8 cm diameter disk-shaped translucent dough filled with a savory stuffing and served with a sweet and savory sauce. The stuffing varies widely according to different regions in Taiwan, but usually consists of a mixture of pork, bamboo shoots, and shiitake mushrooms. Changhua-style ba-wan is considered to be the "standard" ba-wan as it is the most famous and most widely imitated of all styles of ba-wan.
+    </string>
+    
+    <string name="tofu_pudding_desc">
+        Douhua (Chinese: 豆花; pinyin: dòuhuā) is the short form of doufuhua (Chinese: 豆腐花; pinyin: dòufuhuā) or daufufaa (Jyut chinese:豆腐花; jyutping: dau6 fu6 faa1). It is a Chinese snack made with very soft tofu. It is also referred to as tofu pudding and soybean pudding. In Taiwanese cuisine, douhua is served with sweet toppings like cooked peanuts, adzuki beans, cooked oatmeal, tapioca, mung beans, and a syrup flavored with ginger or almond. During the summer, douhua is served with crushed ice; in the winter, it is served warm.
+    </string>
+
+    <string name="pan_fried_bun_desc">
+        水煎包是山東、台灣、廣東、香港和澳門地區常見的點心，有一層薄薄的麵粉水做成的薄衣，餡料有豬肉、干貝等，廣東水煎包加入蝦仁，台灣水煎包加入高麗菜。臺灣的水煎包是二次大戰後由中國大陸帶入並演變成在地口味。
+    </string>
+
+    <string name="steamed_sandwich_desc">
+        Gua bao (Chinese: 割包; pinyin: guàbāo; Pe̍h-ōe-jī: koah-pau; literally: "cut bread"),[1] also known as steamed bao, pork belly buns, or ambiguously, bao, is a Taiwanese snack food consisting of a slice of stewed meat and other condiments sandwiched between flat steamed bread. The steamed bread is typically 6–8 centimetres (2.4–3.1 in) in size, semi-circular and flat in form, with a horizontal fold that, when opened, gives the appearance that it has been sliced. The traditional filling for gua bao is a slice of red-cooked porkbelly, typically dressed with stir-fried suan cai (pickled mustard greens), cilantro, and ground peanuts.
+    </string>
+
+    <string name="scallion_pancake_desc">
+        A scallion pancake (Chinese: 葱油饼; pinyin: cōngyóubǐng; Mandarin pronunciation [tsʰʊ́ŋi̯ǒu̯pìŋ]) is a Chinese savory, unleavened flatbread folded with oil and minced scallions (green onions). Unlike Western pancakes, it is made from dough instead of batter. Variations exist on the basic method of preparation that incorporate other flavors and fillings.
+    </string>
+    
+    <string name="rice_pudding_desc">
+        碗粿（臺語：Uánn-kué），有時被誤寫為「碗稞」或「碗糕」(實際上是台語的眨損語)，是流行於華南、粵東、臺灣等地的米食製品。因成品置於碗內，故名；分甜、鹹二類：甜碗粿是米漿經糊化後拌入糖蒸熟而成；鹹碗粿則是將糊化的米漿蒸過一次，將配料鋪於其上再蒸熟而得，並搭配醬油膏或甜辣醬食用。
+    </string>
+
+    <string name="oyster_thin_noodles_desc">
+        Oyster vermicelli or oamisoir (traditional Chinese: 蚵仔麵線; Taiwanese Hokkien: ô-á mī-sòaⁿ) is a kind of noodle soup popular in Taiwan. Its main ingredients are oysters and misua (Chinese vermicelli). One of the famous places serving this is in Dihua Street, Dadaocheng, Taipei. A tan-brown variety of vermicelli used for this dish is made primarily with wheat flour and salt, and gains its unique colour due to a steaming process which caramelizes the sugars in the dough allowing it to be cooked for longer periods without breaking down.
+    </string>
+    
+    <string name="sausage_with_sticky_rice_desc">
+        Small sausage in large sausage (Chinese: 大腸包小腸; Pe̍h-ōe-jī: tōa-tn̂g pau sió-tn̂g; literally: "small intestine wrapped in large intestine") is a snack invented in Taiwan in the late 20th century. A segment of Taiwanese pork sausage is wrapped in a (slightly bigger and fatter) sticky rice sausage to make this delicacy, usually served chargrilled. It may be compared to a hot dog. Deluxe versions are available in night markets in Taiwan, with condiments such as pickled bokchoi, garlic, wasabi and thick soy sauce paste to complement the taste.
+    </string>
+    
+    <string name="fried_sweet_potato_ball_desc">
+        一個退休老人本來在北縣中正橋下種地瓜，後來遇上了政府整治河灘地，怪手挖壞了他的地瓜田，老人傷心之餘撿起剩下的地瓜丟入油鍋炸，散發的香氣吸引了永和清潔隊的注意，眾人在大快朵頤之後紛紛力勸老人今後應該以此糊口，於是老人在清潔隊員和某位不願具名的代表幫忙之下，在樂華夜市找到一個攤子賣起了炸地瓜。在大受歡迎後老人為了節省成本把地瓜切成小塊分裝出售，這就是地瓜球的由來。
+    </string>
+
+    <string name="chicken_fillet_desc">
+        香雞排，或稱炸雞排，是台灣常見的一種小吃，為炸雞的一種，通常的做法是先以醬料醃漬雞胸肉入味，再以麵包粉或地瓜粉裹覆雞胸肉下鍋油炸，起鍋後再灑上胡椒鹽而成，絕大多數是將雞排放入防油紙袋內食用。
+    </string>
+
+    <string name="red_bean_cake_desc">
+        Imagawayaki (今川焼き?) is a Japanese dessert often found at Japanese festivals as well as outside Japan. It is made of batter in a special pan (similar to a waffle iron but without the honeycomb pattern), and filled with sweet azuki bean paste, although it is becoming increasingly popular to use a wider variety of fillings such as vanilla custard, different fruit custards and preserves, curry, different meat and vegetable fillings, potato and mayonnaise.[1][2] Imagawayaki are similar to Dorayaki, but the latter are two separate pancakes sandwiched around the filling after cooking, and are often served cold.In Taiwan they are commonly called "red bean (i.e. azuki) cake" (Chinese: 紅豆餅; pinyin: hóngdòu bǐng). In the greater Taipei area they are referred to as "car wheel cake" (Chinese: 車輪餅; pinyin: chēlún bǐng). However some of the older generation may directly use the Japanese term taiko manjū (太鼓饅頭?).
+    </string>
+
+    <string name="pepper_cake_desc">
+        Hújiāo bǐng or Pepper bun (Chinese: 胡椒餅; pinyin: Hújiāo bǐng; Pe̍h-ōe-jī: hô͘-chio-piáⁿ; literally: "white pepper cake or biscuit") is a type of baked bun that originated from the Fuzhou region of China. It is a street food that has become quite popular in the Taiwan region and can be found in night markets or mini food stalls throughout Taiwan. Nowadays when speaking about the item it is usually refer to as "Taiwanese Pepper Bun". There are many variations of the bun, it depends on how the vendor prepares it. The common ingredients are flour, water, and a leavening agent for the outer dough shell, and a meat protein (usually pork or beef) marinated with sugar, soy sauce, white pepper or black pepper, and scallion for the inside filling
+    </string>
+</resources>
+
+
